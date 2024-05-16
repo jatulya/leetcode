@@ -24,7 +24,7 @@
     <tr>
       <td>3</td>
       <td><a href="https://leetcode.com/problems/evaluate-reverse-polish-notation/description/">Evaluate Reverse Polish Notation</td>
-      <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode150/stack/postfixval">postfixval.cpp</td>
+      <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode150/stack/postfixeval">postfixeval.cpp</td>
     </tr>
     <tr>
       <td>4</td>

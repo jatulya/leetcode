@@ -33,7 +33,7 @@
     </tr>
     <tr>
       <td>5</td>
-      <td><a href="https://leetcode.com/problems/daily-temperature/description/">Daily Temperature</td>
+      <td><a href="https://leetcode.com/problems/daily-temperatures/description/">Daily Temperature</td>
       <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode150/stack/dailyTemp.cpp">dailyTemp.cpp</td>
     </tr>
     <tr>

@@ -64,6 +64,11 @@
       <td><a href="https://leetcode.com/problems/valid-anagrams/description/">Valid Anagrams</td>
       <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode150/array/anagram.cpp">anagram.cpp</td>
     </tr>
+    <tr>
+      <td>3</td>
+      <td><a href="https://leetcode.com/problems/two-sum/description/">Two Sum</td>
+      <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode150/array/twosum.cpp">twosum.cpp</td>
+    </tr>
   </tbody>
 </table> 
 </ul>

@@ -79,6 +79,11 @@
       <td><a href="https://leetcode.com/problems/top-k-frequent-elements/description/">Top K Frequent Elements</td>
       <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode150/array/topkele.cpp">topkele.cpp</td>
     </tr>
+    <tr>
+      <td>6</td>
+      <td><a href="https://leetcode.com/problems/product-of-array-except-self/description/">Product of Array Except Self</td>
+      <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode150/array/pdtOfArr.cpp">pdtOfArr.cpp</td>
+    </tr>
   </tbody>
 </table> 
 </ul>

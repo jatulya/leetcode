@@ -86,6 +86,23 @@
     </tr>
   </tbody>
 </table> 
+ <li>Two Pointers</li>
+  <table>
+  <thead>
+    <tr>
+      <th>SL No.</th>
+      <th>Question</th>
+      <th>Solution</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td><a href="https://leetcode.com/problems/valid-palindrome/description/">Valid Palindrome</td>
+      <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode150/array/duplicate.cpp">valPal.cpp</td>
+    </tr>
+  </tbody>
+</table>
 </ul>
 <br>
         

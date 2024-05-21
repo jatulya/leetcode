@@ -85,7 +85,7 @@
       <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode150/array/pdtOfArr.cpp">pdtOfArr.cpp</td>
     </tr>
   </tbody>
-</table> 
+</table> <br>
  <li>Two Pointers</li>
   <table>
   <thead>
@@ -99,6 +99,33 @@
     <tr>
       <td>1</td>
       <td><a href="https://leetcode.com/problems/valid-palindrome/description/">Valid Palindrome</td>
+      <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode150/array/duplicate.cpp">valPal.cpp</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td><a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/">Two Sum II Input Array is Sorted</td>
+      <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode150/array/duplicate.cpp">valPal.cpp</td>
+    </tr>
+  </tbody>
+</table> <br>
+<li>Binary Search</li>
+  <table>
+  <thead>
+    <tr>
+      <th>SL No.</th>
+      <th>Question</th>
+      <th>Solution</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td><a href="https://leetcode.com/problems/binary-search/description/">Binary Search</td>
+      <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode150/array/duplicate.cpp">valPal.cpp</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td><a href="https://leetcode.com/problems/search-a-2d-matrix/description/">Search a 2D Matrix</td>
       <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode150/array/duplicate.cpp">valPal.cpp</td>
     </tr>
   </tbody>

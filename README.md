@@ -102,7 +102,7 @@
       <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode150/array/duplicate.cpp">valPal.cpp</td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td><a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/">Two Sum II Input Array is Sorted</td>
       <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode150/array/duplicate.cpp">valPal.cpp</td>
     </tr>

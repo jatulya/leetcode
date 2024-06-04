@@ -23,7 +23,6 @@ public:
                 else{
                     sums.push_back(s);
                     temp = s;
-                    cout<<sums[0];
                 }
             }
         }

@@ -157,7 +157,7 @@
     </tr>
     <tr>
       <td>2</td>
-      <td><a href="https://leetcode.com/problems/search-a-2d-matrix/description/">Search a 2D Matrix</td>
+      <td><a href="https://leetcode.com/problems/search-a-2d-matrix/description/">Longest Repeating Characters</td>
       <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode150/array/search2D.cpp">search2D.cpp</td>
     </tr>
   </tbody>

@@ -152,12 +152,17 @@
   <tbody>
     <tr>
       <td>1</td>
-      <td><a href="https://leetcode.com/problems/binary-search/description/">Binary Search</td>
+      <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/">Best Time to Buy and Sell Stock</td>
+      <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode150/array/search.cpp">search.cpp</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/description/">Longest Substring Without Repeating Characters</td>
       <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode150/array/search.cpp">search.cpp</td>
     </tr>
     <tr>
       <td>2</td>
-      <td><a href="https://leetcode.com/problems/search-a-2d-matrix/description/">Longest Repeating Characters</td>
+      <td><a href="https://leetcode.com/problems/longest-repeating-characters/description/">Longest Repeating Characters</td>
       <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode150/array/search2D.cpp">search2D.cpp</td>
     </tr>
   </tbody>

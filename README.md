@@ -189,6 +189,28 @@
     </tr>
   </tbody>
 </table>
+<li>Bit Manipulation</li>
+  <table>
+  <thead>
+    <tr>
+      <th>SL No.</th>
+      <th>Question</th>
+      <th>Solution</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td><a href="https://leetcode.com/problems/single-number/description/">Single Number</td>
+      <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode150/bit_manipulation/singlenum.cpp">singlenum.cpp</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td><a href="https://leetcode.com/problems/number-of-1-bits/description/">Number of 1 bits</td>
+      <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode150/array/search2D.cpp">search2D.cpp</td>
+    </tr>
+  </tbody>
+</table>
 </ul>
 <br>
         
@@ -211,6 +233,16 @@
     <tr>
       <td>2</td>
       <td><a href="https://leetcode.com/problems/remove-element/description/">Remove Element</td>
+      <td><a href="https://github.com/jatulya/leetcode/blob/master/interview150/remove.cpp">remove.cpp</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/">Remove duplicates from sorted array</td>
+      <td><a href="https://github.com/jatulya/leetcode/blob/master/interview150/remove.cpp">remove.cpp</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/">Remove duplicates from sorted array - II</td>
       <td><a href="https://github.com/jatulya/leetcode/blob/master/interview150/remove.cpp">remove.cpp</td>
     </tr>
   </tbody>

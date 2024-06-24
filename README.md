@@ -222,6 +222,7 @@
       <th>SL No.</th>
       <th>Question</th>
       <th>Solution</th>
+      <th>Topic</th>
     </tr>
   </thead>
   <tbody>
@@ -229,21 +230,55 @@
       <td>1</td>
       <td><a href="https://leetcode.com/problems/merge-sorted-array/description/">Merge Sorted Array</td>
       <td><a href="https://github.com/jatulya/leetcode/blob/master/interview150/mergeArrays.cpp">mergeArrays.cpp</td>
+      <td>Array/String</td>
     </tr>
     <tr>
       <td>2</td>
       <td><a href="https://leetcode.com/problems/remove-element/description/">Remove Element</td>
       <td><a href="https://github.com/jatulya/leetcode/blob/master/interview150/remove.cpp">remove.cpp</td>
+      <td>Array/String</td>
     </tr>
     <tr>
       <td>3</td>
       <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/">Remove duplicates from sorted array</td>
       <td><a href="https://github.com/jatulya/leetcode/blob/master/interview150/remove.cpp">remove.cpp</td>
+      <td>Array/String</td>
     </tr>
     <tr>
       <td>4</td>
       <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/">Remove duplicates from sorted array - II</td>
       <td><a href="https://github.com/jatulya/leetcode/blob/master/interview150/remove.cpp">remove.cpp</td>
+      <td>Array/String</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td><a href="https://leetcode.com/problems/majority-element/description/">Majority Element</td>
+      <td><a href="https://github.com/jatulya/leetcode/blob/master/interview150/remove.cpp">remove.cpp</td>
+      <td>Array/String</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td><a href="https://leetcode.com/problems/rotate-array/description/">Rotate array</td>
+      <td><a href="https://github.com/jatulya/leetcode/blob/master/interview150/remove.cpp">remove.cpp</td>
+      <td>Array/String</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/">Best Time to Buy and Sell Stock</td>
+      <td><a href="https://github.com/jatulya/leetcode/blob/master/interview150/remove.cpp">remove.cpp</td>
+      <td>Array/String</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="https://leetcode.com/problems/merge-intervals/description/">Merge Intervals</td>
+      <td><a href="https://github.com/jatulya/leetcode/blob/master/interview150/remove.cpp">remove.cpp</td>
+      <td>Intervals</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="https://leetcode.com/problems/insert-interval/description/">Insert Interval/td>
+      <td><a href="https://github.com/jatulya/leetcode/blob/master/interview150/remove.cpp">remove.cpp</td>
+      <td>Interval</td>
     </tr>
   </tbody>
 </table> 

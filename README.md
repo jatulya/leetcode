@@ -211,6 +211,28 @@
     </tr>
   </tbody>
 </table>
+<li>Greedy</li>
+  <table>
+  <thead>
+    <tr>
+      <th>SL No.</th>
+      <th>Question</th>
+      <th>Solution</th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr>
+      <td>1</td>
+      <td><a href="https://leetcode.com/problems/maximum-subarray/description/">Maximum Subarray/td>
+      <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode/greedy/maxsubarray.py">maxsubarray.cpp</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td><a href="https://leetcode.com/problems/valid-parenthesis-string/description/">Valid Parenthesis String</td>
+      <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode150/greedy/valPalStr.py">valPalStr.py</td>
+    </tr>
+  </tbody>
+</table>
 </ul>
 <br>
         
@@ -279,6 +301,12 @@
       <td><a href="https://leetcode.com/problems/insert-interval/description/">Insert Interval/td>
       <td><a href="https://github.com/jatulya/leetcode/blob/master/interview150/remove.cpp">remove.cpp</td>
       <td>Interval</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="https://leetcode.com/problems/maximum-subarray/description/">Maximum Subarray/td>
+      <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode/greedy/maxsubarray.py">maxsubarray.cpp</td>
+      <td>Kadane's Algorithm</td>
     </tr>
   </tbody>
 </table> 

@@ -223,8 +223,8 @@
   <tbody>
    <tr>
       <td>1</td>
-      <td><a href="https://leetcode.com/problems/maximum-subarray/description/">Maximum Subarray/td>
-      <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode/greedy/maxsubarray.py">maxsubarray.cpp</td>
+      <td><a href="https://leetcode.com/problems/maximum-subarray/description/">Maximum Subarray</td>
+      <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode/greedy/maxsubarray.py">maxsubarray.py</td>
     </tr>
     <tr>
       <td>2</td>
@@ -298,14 +298,14 @@
     </tr>
     <tr>
       <td></td>
-      <td><a href="https://leetcode.com/problems/insert-interval/description/">Insert Interval/td>
+      <td><a href="https://leetcode.com/problems/insert-interval/description/">Insert Interval</td>
       <td><a href="https://github.com/jatulya/leetcode/blob/master/interview150/remove.cpp">remove.cpp</td>
       <td>Interval</td>
     </tr>
     <tr>
       <td></td>
-      <td><a href="https://leetcode.com/problems/maximum-subarray/description/">Maximum Subarray/td>
-      <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode/greedy/maxsubarray.py">maxsubarray.cpp</td>
+      <td><a href="https://leetcode.com/problems/maximum-subarray/description/">Maximum Subarray</td>
+      <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode/greedy/maxsubarray.py">maxsubarray.py</td>
       <td>Kadane's Algorithm</td>
     </tr>
   </tbody>

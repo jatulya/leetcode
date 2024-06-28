@@ -211,6 +211,23 @@
     </tr>
   </tbody>
 </table>
+<li>Trees</li>
+  <table>
+  <thead>
+    <tr>
+      <th>SL No.</th>
+      <th>Question</th>
+      <th>Solution</th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr>
+      <td>1</td>
+      <td><a href="https://leetcode.com/problems/maximum-subarray/invert-binary-tree/">Invert Binary Tree</td>
+      <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode150/trees/invertbintree.cpp">invertbintree.cpp</td>
+   </tr>
+  </tbody>
+</table>
 <li>Greedy</li>
   <table>
   <thead>
@@ -301,6 +318,12 @@
       <td><a href="https://leetcode.com/problems/insert-interval/description/">Insert Interval</td>
       <td><a href="https://github.com/jatulya/leetcode/blob/master/interview150/remove.cpp">remove.cpp</td>
       <td>Interval</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="https://leetcode.com/problems/maximum-subarray/invert-binary-tree/">Invert Binary Tree</td>
+      <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode150/trees/invertbintree.cpp">invertbintree.cpp</td>
+      <td>Binary Tree General</td>
     </tr>
     <tr>
       <td></td>

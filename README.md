@@ -223,7 +223,7 @@
   <tbody>
    <tr>
       <td>1</td>
-      <td><a href="https://leetcode.com/problems/maximum-subarray/invert-binary-tree/">Invert Binary Tree</td>
+      <td><a href="https://leetcode.com/problems/invert-binary-tree/description">Invert Binary Tree</td>
       <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode150/trees/invertbintree.cpp">invertbintree.cpp</td>
    </tr>
   </tbody>
@@ -321,7 +321,7 @@
     </tr>
     <tr>
       <td></td>
-      <td><a href="https://leetcode.com/problems/maximum-subarray/invert-binary-tree/">Invert Binary Tree</td>
+      <td><a href="https://leetcode.com/problems/invert-binary-tree/description">Invert Binary Tree</td>
       <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode150/trees/invertbintree.cpp">invertbintree.cpp</td>
       <td>Binary Tree General</td>
     </tr>

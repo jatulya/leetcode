@@ -327,6 +327,18 @@
     </tr>
     <tr>
       <td></td>
+      <td><a href="https://leetcode.com/problems/same-tree/description">Same Tree</td>
+      <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode150/trees/sametree.cpp">sametree.cpp</td>
+      <td>Binary Tree General</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="https://leetcode.com/problems/sum-root-to-leaf-numbers/description">Sum Root to Leaf Numbers</td>
+      <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode150/trees/sumroottolead.cpp">sumroottolead.cpp</td>
+      <td>Binary Tree General</td>
+    </tr>
+    <tr>
+      <td></td>
       <td><a href="https://leetcode.com/problems/maximum-subarray/description/">Maximum Subarray</td>
       <td><a href="https://github.com/jatulya/leetcode/blob/master/neetcode/greedy/maxsubarray.py">maxsubarray.py</td>
       <td>Kadane's Algorithm</td>
